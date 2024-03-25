@@ -1,4 +1,4 @@
-# Adaptive trimmed one-sided t-test (t.opt)
+# Adaptive trimmed one-sided t-test
 
 Implements one-sided adaptive trimming for micro-array data
 
